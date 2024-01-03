@@ -1,5 +1,5 @@
 {
-  "name": "Start Stop",
+  "name": "MoveEV",
   "supportEmail": "support@geotab.com",
   "version": "1.0.0",
   "items": [{
@@ -7,13 +7,13 @@
     "url": "moveev.html",
     "path": "EngineMaintenanceLink/",
     "menuName": {
-      "en": "Start-Stop Savings"
+      "en": "MoveEV Savings"
     },
     
     "icon": "images/icon.svg"
   }],
   "dev": {
-    "root": "startStop",
+    "root": "MoveEV",
     "dist": {
       "host": "https://github.com/stephendrobinson/moveev-test/blob/master/app/moveev.html"
     }

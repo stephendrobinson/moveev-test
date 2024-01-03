@@ -7,14 +7,14 @@ Add the configuration below to the to the system setting -> add-ins section of t
 
 ```json
 {
-  "name": "Start Stop",
+  "name": "Move EV 2",
   "supportEmail": "support@geotab.com",
   "version": "0.0.1",
   "items": [{
     "url": "https://github.com/stephendrobinson/moveev-test/blob/master/app/moveev.html",
     "path": "EngineMaintenanceLink/",
     "menuName": {
-      "en": "Start-Stop Savings"
+      "en": "Move EV 2"
     },
     "icon": "https://github.com/stephendrobinson/moveev-test/blob/master/app/images/icon.svg"
   }]
