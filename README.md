@@ -7,16 +7,16 @@ Add the configuration below to the to the system setting -> add-ins section of t
 
 ```json
 {
-  "name": "Move EV 2",
-  "supportEmail": "support@geotab.com",
+  "name": "Move EV",
+  "supportEmail": "support@moveev.com",
   "version": "0.0.1",
   "items": [{
-    "url": "https://github.com/stephendrobinson/moveev-test/blob/master/app/moveev.html",
-    "path": "EngineMaintenanceLink/",
+    "url": "https://move-ev-test.s3.us-west-2.amazonaws.com/app/moveev.html",
+    "path": "GettingStartedLink/",
     "menuName": {
-      "en": "Move EV 2"
+      "en": "MoveEV Calculator"
     },
-    "icon": "https://github.com/stephendrobinson/moveev-test/blob/master/app/images/icon.svg"
+    "icon": "https://move-ev-test.s3.us-west-2.amazonaws.com/app/images/icon.svg"
   }]
 }
 ```

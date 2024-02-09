@@ -1,11 +1,10 @@
 {
   "name": "MoveEV",
-  "supportEmail": "support@geotab.com",
+  "supportEmail": "support@moveev.com",
   "version": "1.0.0",
   "items": [{
-    
     "url": "moveev.html",
-    "path": "EngineMaintenanceLink/",
+    "path": "GettingStartedLink/",
     "menuName": {
       "en": "MoveEV Savings"
     },
@@ -13,9 +12,9 @@
     "icon": "images/icon.svg"
   }],
   "dev": {
-    "root": "MoveEV",
+    "root": "moveEV",
     "dist": {
-      "host": "https://github.com/stephendrobinson/moveev-test/blob/master/app/moveev.html"
+      "host": "https://move-ev-test.s3.us-west-2.amazonaws.com/app/moveev.html"
     }
   }
 }
